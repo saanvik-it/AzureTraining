@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="saanvik it_01.png" alt="Saanvik IT Logo" width="600"/>
+  <img src="saanvikit.png" alt="Saanvik IT Logo" width="600"/>
   <h1>Azure Interview Questions and Answers</h1>
   <p><em>A comprehensive guide to prepare for Azure technical interviews</em></p>
   <hr>
